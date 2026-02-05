@@ -1,0 +1,235 @@
+{
+  "app": {
+    "subtitle": { "de": "Demo – DE/EN", "en": "Demo – DE/EN" },
+    "homeTitle": { "de": "Willkommen 👋", "en": "Welcome 👋" },
+    "homeText": {
+      "de": "Hier finden Sie wichtige Informationen: Ankündigungen, Essensplan, Aktivitäten, Zeiten & den Lageplan.",
+      "en": "Here you can find important information: announcements, meal plan, activities, hours & the map."
+    }
+  },
+  "nav": {
+    "announcements": { "de": "Ankündigungen", "en": "Announcements" },
+    "hours": { "de": "Zeiten", "en": "Hours" },
+    "meals": { "de": "Essensplan", "en": "Meal plan" },
+    "activities": { "de": "Aktivitäten", "en": "Activities" },
+    "buildings": { "de": "Karte & Gebäude", "en": "Map & buildings" },
+    "info": { "de": "Info", "en": "Info" }
+  },
+  "announcements": [
+    {
+      "title": { "de": "Wichtig", "en": "Important" },
+      "meta": { "de": "02.02.2026", "en": "02 Feb 2026" },
+      "text": {
+        "de": "Am 02.02.2026 wird es einen Streik im öffentlichen Nah- und Fernverkehr geben. Busse und Züge können an diesem Tag nicht genutzt werden.",
+        "en": "On 02 Feb 2026, there will be a strike affecting public transport and trains. Buses and trains cannot be used on this day."
+      }
+    },
+    {
+      "title": { "de": "Wichtig", "en": "Important" },
+      "meta": { "de": "Heute", "en": "Today" },
+      "text": {
+        "de": "Heute Test: Demo funktioniert.",
+        "en": "Test today: Demo works."
+      }
+    },
+    {
+      "title": { "de": "Wichtig", "en": "Important" },
+      "meta": { "de": "Heute", "en": "Today" },
+      "text": {
+        "de": "Bitte kommen Sie zum DRK-Personal (Gebäude 2), wenn Sie eine neue Nachricht erhalten.",
+        "en": "Please come to DRK staff (Building 2) if you receive a new message."
+      }
+    },
+    {
+      "title": { "de": "Hinweis", "en": "Notice" },
+      "meta": { "de": "Diese Woche", "en": "This week" },
+      "text": {
+        "de": "Kleiderkammer (Gebäude 4) ist am Mittwoch 14:00–16:00 geöffnet.",
+        "en": "Clothing room (Building 4) is open on Wednesday 14:00–16:00."
+      }
+    }
+  ],
+  "hours": {
+    "title": { "de": "Zeiten & Sprechstunden", "en": "Hours & office times" },
+    "sections": [
+      {
+        "title": { "de": "Landesamt Sprechstunde", "en": "Landesamt office hour" },
+        "items": [
+          {
+            "line": {
+              "de": "Montag und Donnerstag, 09:00–11:00",
+              "en": "Monday and Thursday, 09:00–11:00"
+            }
+          }
+        ]
+      },
+      {
+        "title": { "de": "Kleiderkammer – Terminvergabe", "en": "Clothing room – appointment" },
+        "items": [
+          { "line": { "de": "Männer: Donnerstag, 10:00", "en": "Men: Thursday, 10:00" } },
+          { "line": { "de": "Frauen: Mittwoch, 10:00", "en": "Women: Wednesday, 10:00" } }
+        ]
+      },
+      {
+        "title": { "de": "Mensa (Essenszeiten)", "en": "Canteen (meal times)" },
+        "items": [
+          { "line": { "de": "Frühstück: 07:30–09:30", "en": "Breakfast: 07:30–09:30" } },
+          { "line": { "de": "Mittagessen: 11:30–13:30", "en": "Lunch: 11:30–13:30" } },
+          { "line": { "de": "Abendessen: 17:30–19:30", "en": "Dinner: 17:30–19:30" } }
+        ]
+      },
+      {
+        "title": { "de": "Wäsche waschen (Zeitfenster)", "en": "Laundry (time slots)" },
+        "items": [
+          { "line": { "de": "09:30–09:45", "en": "09:30–09:45" } },
+          { "line": { "de": "10:30–10:45", "en": "10:30–10:45" } },
+          { "line": { "de": "11:30–11:45", "en": "11:30–11:45" } }
+        ]
+      },
+      {
+        "title": { "de": "Bettwäsche-Tausch", "en": "Bedding exchange" },
+        "items": [
+          { "line": { "de": "01.02.2026", "en": "01 Feb 2026" } },
+          { "line": { "de": "15.02.2026", "en": "15 Feb 2026" } },
+          { "line": { "de": "01.03.2026", "en": "01 Mar 2026" } }
+        ],
+        "note": { "de": "Alle 2 Wochen.", "en": "Every 2 weeks." }
+      },
+      {
+        "title": { "de": "DRK Beratung", "en": "DRK consultation" },
+        "items": [
+          {
+            "line": {
+              "de": "Montag–Freitag, 07:00–16:30",
+              "en": "Monday–Friday, 07:00–16:30"
+            }
+          }
+        ]
+      },
+      {
+        "title": { "de": "Hausbetreuung", "en": "House support" },
+        "items": [
+          {
+            "line": {
+              "de": "Wochentags: 24/7 in den Gebäude-Büros",
+              "en": "Weekdays: 24/7 in the building offices"
+            }
+          },
+          {
+            "line": {
+              "de": "Wochenende: nur Gebäude 2",
+              "en": "Weekend: only Building 2"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "meals": {
+    "times": {
+      "de": "Frühstück 07:30–09:30 | Mittag 11:30–13:30 | Abend 17:30–19:30",
+      "en": "Breakfast 07:30–09:30 | Lunch 11:30–13:30 | Dinner 17:30–19:30"
+    },
+    "week": [
+      {
+        "day": { "de": "Montag", "en": "Monday" },
+        "breakfast": { "de": "Brot, Käse, Obst", "en": "Bread, cheese, fruit" },
+        "lunch": { "de": "Reis + Gemüse", "en": "Rice + vegetables" },
+        "dinner": { "de": "Suppe + Brot", "en": "Soup + bread" }
+      },
+      {
+        "day": { "de": "Dienstag", "en": "Tuesday" },
+        "breakfast": { "de": "Müsli + Joghurt", "en": "Cereal + yogurt" },
+        "lunch": { "de": "Nudeln + Soße", "en": "Pasta + sauce" },
+        "dinner": { "de": "Salat + Brot", "en": "Salad + bread" }
+      },
+      {
+        "day": { "de": "Mittwoch", "en": "Wednesday" },
+        "breakfast": { "de": "Brot + Marmelade", "en": "Bread + jam" },
+        "lunch": { "de": "Kartoffeln + Gemüse", "en": "Potatoes + vegetables" },
+        "dinner": { "de": "Suppe + Brot", "en": "Soup + bread" }
+      },
+      {
+        "day": { "de": "Donnerstag", "en": "Thursday" },
+        "breakfast": { "de": "Müsli + Obst", "en": "Cereal + fruit" },
+        "lunch": { "de": "Nudeln + Soße", "en": "Pasta + sauce" },
+        "dinner": { "de": "Salat + Brot", "en": "Salad + bread" }
+      },
+      {
+        "day": { "de": "Freitag", "en": "Friday" },
+        "breakfast": { "de": "Brot, Käse", "en": "Bread, cheese" },
+        "lunch": { "de": "Reis + Gemüse", "en": "Rice + vegetables" },
+        "dinner": { "de": "Suppe + Brot", "en": "Soup + bread" }
+      },
+      {
+        "day": { "de": "Samstag", "en": "Saturday" },
+        "breakfast": { "de": "Brot + Obst", "en": "Bread + fruit" },
+        "lunch": { "de": "Eintopf", "en": "Stew" },
+        "dinner": { "de": "Suppe + Brot", "en": "Soup + bread" }
+      },
+      {
+        "day": { "de": "Sonntag", "en": "Sunday" },
+        "breakfast": { "de": "Brot + Marmelade", "en": "Bread + jam" },
+        "lunch": { "de": "Reisgericht", "en": "Rice dish" },
+        "dinner": { "de": "Suppe + Brot", "en": "Soup + bread" }
+      }
+    ]
+  },
+  "activities": [
+    {
+      "title": { "de": "Deutsch-Treff", "en": "German practice" },
+      "meta": { "de": "Di 15:00 · Gebäude 3 (Café Treff)", "en": "Tue 15:00 · Building 3 (Café Treff)" },
+      "text": { "de": "Kurzes Gespräch & Übung.", "en": "Short conversation & practice." }
+    },
+    {
+      "title": { "de": "Beratung (Sprechstunde)", "en": "Consultation (office hour)" },
+      "meta": { "de": "Fr 11:00 · Gebäude 2 (DRK)", "en": "Fri 11:00 · Building 2 (DRK)" },
+      "text": { "de": "Nur nach Aufruf.", "en": "Only when called." }
+    }
+  ],
+  "buildings": [
+    {
+      "id": 1,
+      "icon": "🏛️",
+      "name": { "de": "Landesamt", "en": "State office (Landesamt)" },
+      "desc": { "de": "Termine/Meldungen nur nach Aufruf.", "en": "Appointments/notices only when called." },
+      "hours": { "de": "—", "en": "—" },
+      "maps": ""
+    },
+    {
+      "id": 2,
+      "icon": "📝",
+      "name": { "de": "DRK Anmeldung", "en": "DRK Registration" },
+      "desc": { "de": "Anmeldung, Informationen, Dokumente.", "en": "Registration, information, documents." },
+      "hours": { "de": "—", "en": "—" },
+      "maps": ""
+    },
+    {
+      "id": 3,
+      "icon": "🚑",
+      "name": { "de": "Notarztbörse & Café Treff", "en": "Medical point & Café Treff" },
+      "desc": { "de": "Medizinische Anlaufstelle & Treffpunkt.", "en": "Medical contact point & meeting café." },
+      "hours": { "de": "—", "en": "—" },
+      "maps": ""
+    },
+    {
+      "id": 4,
+      "icon": "👕",
+      "name": { "de": "Kleiderkammer", "en": "Clothing room" },
+      "desc": { "de": "Kleidungsausgabe zu festen Zeiten.", "en": "Clothing distribution at fixed times." },
+      "hours": { "de": "Mi 14:00–16:00", "en": "Wed 14:00–16:00" },
+      "maps": ""
+    }
+  ],
+  "info": {
+    "title": { "de": "Info", "en": "Info" },
+    "text": {
+      "de": "Dies ist eine Demo. Keine personenbezogenen Daten, keine Termindetails. Hinweise werden persönlich vom Personal gegeben.",
+      "en": "This is a demo. No personal data, no appointment details. Information is provided in person by staff."
+    },
+    "cta": {
+      "de": "Push-Demo: \"Bitte kommen Sie zum DRK-Personal\"",
+      "en": "Push demo: \"Please come to DRK staff\""
+    }
+  }
+}

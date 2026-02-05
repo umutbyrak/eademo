@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Erstaufnahme Info (Demo)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="title">Erstaufnahme Info</div>
+      <div class="subtitle" id="subtitle">Demo</div>
+    </div>
+
+    <div class="lang">
+      <button class="chip" id="btnDe" aria-label="Deutsch">DE</button>
+      <button class="chip" id="btnEn" aria-label="English">EN</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1 id="homeTitle">Willkommen</h1>
+      <p id="homeText">Wichtige Informationen: Ankündigungen, Essensplan, Aktivitäten und Karte.</p>
+    </section>
+
+    <section class="card" id="contentCard">
+      <div class="cardHeader">
+        <h2 id="pageTitle">Ankündigungen</h2>
+      </div>
+      <div id="content" class="content"></div>
+    </section>
+  </main>
+
+  <nav class="bottomNav">
+  <button class="navBtn" data-page="announcements" data-icon="📣" id="navAnnouncements"><span>Ankündigungen</span></button>
+  <button class="navBtn" data-page="hours" data-icon="🕒" id="navHours"><span>Zeiten</span></button>
+
+  <button class="navBtn" data-page="meals" data-icon="🍽️" id="navMeals"><span>Essensplan</span></button>
+  <button class="navBtn" data-page="activities" data-icon="🎯" id="navActivities"><span>Aktivitäten</span></button>
+  <button class="navBtn" data-page="buildings" data-icon="🗺️" id="navBuildings"><span>Karte & Gebäude</span></button>
+  <button class="navBtn" data-page="info" data-icon="ℹ️" id="navInfo"><span>Info</span></button>
+</nav>
+
+
+
+  <script src="app.js"></script>
+</body>
+</html>
