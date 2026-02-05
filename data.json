@@ -222,10 +222,18 @@
       "maps": ""
     }
   ],
+"info": {
+  "title": { "de": "Info", "en": "Info" },
   "text": {
-  "de": "Dies ist eine Demo-Version von Cleara. Es werden keine personenbezogenen Daten erhoben. Offizielle Mitteilungen erfolgen weiterhin persönlich durch das Personal.",
-  "en": "This is a demo version of Cleara. No personal data is collected. Official notifications are still provided in person by staff."
+    "de": "Dies ist eine Demo-Version von Cleara. Es werden keine personenbezogenen Daten erhoben. Offizielle Mitteilungen erfolgen weiterhin persönlich durch das Personal.",
+    "en": "This is a demo version of Cleara. No personal data is collected. Official notifications are still provided in person by staff."
+  },
+  "cta": {
+    "de": "Hinweis: Bitte beachten Sie die Aushänge und Informationen vor Ort.",
+    "en": "Note: Please also check the notices and information on site."
+  }
+}
 }
 
-  }
+
 
