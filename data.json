@@ -3,9 +3,10 @@
     "subtitle": { "de": "Demo – DE/EN", "en": "Demo – DE/EN" },
     "homeTitle": { "de": "Willkommen 👋", "en": "Welcome 👋" },
     "homeText": {
-      "de": "Hier finden Sie wichtige Informationen: Ankündigungen, Essensplan, Aktivitäten, Zeiten & den Lageplan.",
-      "en": "Here you can find important information: announcements, meal plan, activities, hours & the map."
-    }
+  "de": "Cleara ist eine einfache Informations- und Orientierungshilfe für Bewohner.",
+  "en": "Cleara is a simple information and orientation tool for residents."
+}
+
   },
   "nav": {
     "announcements": { "de": "Ankündigungen", "en": "Announcements" },
@@ -221,15 +222,10 @@
       "maps": ""
     }
   ],
-  "info": {
-    "title": { "de": "Info", "en": "Info" },
-    "text": {
-      "de": "Dies ist eine Demo. Keine personenbezogenen Daten, keine Termindetails. Hinweise werden persönlich vom Personal gegeben.",
-      "en": "This is a demo. No personal data, no appointment details. Information is provided in person by staff."
-    },
-    "cta": {
-      "de": "Push-Demo: \"Bitte kommen Sie zum DRK-Personal\"",
-      "en": "Push demo: \"Please come to DRK staff\""
-    }
+  "text": {
+  "de": "Dies ist eine Demo-Version von Cleara. Es werden keine personenbezogenen Daten erhoben. Offizielle Mitteilungen erfolgen weiterhin persönlich durch das Personal.",
+  "en": "This is a demo version of Cleara. No personal data is collected. Official notifications are still provided in person by staff."
+}
+
   }
 }
