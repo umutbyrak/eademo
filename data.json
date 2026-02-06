@@ -10,7 +10,7 @@
   },
   "nav": {
     "announcements": { "de": "Ankündigungen", "en": "Announcements" },
-    "hours": { "de": "Zeiten", "en": "Hours" },
+    "hours": { "de": "Kalender", "en": "Calendar" },
     "meals": { "de": "Essensplan", "en": "Meal plan" },
     "activities": { "de": "Aktivitäten", "en": "Activities" },
     "buildings": { "de": "Karte & Gebäude", "en": "Map & buildings" },
@@ -234,6 +234,7 @@
   }
 }
 }
+
 
 
 
