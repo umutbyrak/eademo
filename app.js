@@ -140,7 +140,7 @@ function render() {
       // nav labels (keep icons + fallback)
 const iconMap = {
   navAnnouncements: "📣",
-  navHours: "🕒",
+  navHours: "📅",
   navMeals: "🍽️",
   navActivities: "🎯",
   navBuildings: "🗺️",
@@ -209,3 +209,4 @@ async function init() {
 }
 
 init();
+
