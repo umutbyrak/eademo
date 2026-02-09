@@ -192,3 +192,36 @@ body{
   font-size:15px;
 }
 .navBtn span{ pointer-events:none; }
+/* Info section readability */
+.infoLine {
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.infoDesc {
+  color: var(--muted);
+  margin-left: 6px;
+}
+.item h4 {
+  margin: 10px 0 4px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.item .subsection {
+  margin-bottom: 10px;
+}
+/* Info: section içi alt-ayırıcı */
+.subBlock{
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+.subTitle{
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+.lines p{
+  margin: 0 0 6px;
+}
